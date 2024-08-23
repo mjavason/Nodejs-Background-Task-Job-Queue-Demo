@@ -1,0 +1,2 @@
+You need to download redis on your system for the queue to store the tasks.
+for windows, download here: https://github.com/tporadowski/redis/releases
